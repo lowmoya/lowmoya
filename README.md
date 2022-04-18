@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Ava
+- 👀 I’m interested in game dev and software developement
+- 💞️ I’m looking to collaborate on indie games
